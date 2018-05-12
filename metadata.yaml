@@ -1,0 +1,42 @@
+_repo: The-Curlytops-at-Uncle-Frank-s-Ranch--Or-Little-Folks-on-Ponyback_32525
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+covers:
+- cover_type: archival
+  image_path: 32525-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: '"Let''s pull some grass for ''em," suggested Teddy, and they did this,
+  feeding it to the horses that stretched their necks over the top rail of the fence
+  and chewed the green bunches as if they very much liked their fodder.'
+gutenberg_issued: '2010-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+title: The Curlytops at Uncle Frank's Ranch; Or, Little Folks on Ponyback
+url: http://www.gutenberg.org/ebooks/32525
